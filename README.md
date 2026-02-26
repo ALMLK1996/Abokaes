@@ -1,157 +1,118 @@
-### وسائل التواصل الاجتماعي  Hello, I'm Abokaes, a professional web developer with 5 years of experience in designing and developing dynamic, stylish websites. I specialize in UI and backend development using HTML, CSS, JavaScript, and frameworks like Angular and React. My passion lies in crafting exceptional user experiences and optimizing website performance. I believe programming is an art that blends creativity with precision, and I constantly strive to deliver the best technical solutions.
+<div style="padding: 3px; background: linear-gradient(45deg, red, orange, yellow, green, blue, purple); border-radius: 10px; width: fit-content; margin: auto;">
+<div style="background: #111; color: white; padding: 20px; border-radius: 7px; text-align: center; font-family: Arial;">
+<h3>مرحباً بكم في ملفي الشخصي</h3>
+<p># 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
 
-<p align="left">
-  <a href="https://www.github.com/Abokaes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.gitlab.com/abokaes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
-    </picture>
-  </a>
-  <a href="https://www.x.com/abokaes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
-    </picture>
-  </a>
-  <a href="https://www.facebook.com/abokaes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" />
-    </picture>
-  </a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
+[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-red?style=social&logo=Youtube&logoColor=red&link=https://www.youtube.com/@ashleymavericks)](https://www.youtube.com/@ashleymavericks)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/ashleymavericks/)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks)
+[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
 
-### المهارات والتقنيات  
+[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
 
-<p align="left">
-  <!-- لغات البرمجة -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="" /></a>
-  <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" alt="Perl" title="Perl" width="36" height="36" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" title="R.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" alt="CoffeeScript" title="CoffeeScript" width="36" height="36" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
+:wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
-  <!-- أطر عمل ومكتبات -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg36" height="36" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src
-  <!-- قواعد البيانات -->
-  <!-- أدوات وتقنيات أخرى -->
-readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="36" height="36" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Azure" title="Azure" width="36" height="36" /></a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="DigitalOcean" title="DigitalOcean" width="36" height="36" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36" /></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" title="WordPress" width="36" height="36" /></a>
-  <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a>
-  <a href="https://www.squarespace.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a>
-  <a href="https://www.wix.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
-  <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/yocto-colored.svg" alt="Yocto" title="Yocto" width="36" height="36" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
-  <a href="https://apple.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="macOS" title="macOS" width="36" height="36" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-  <a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a>
-  <a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a>
+<div align="center">
+<details>
+<summary><b>GitHub Metrics👇🏻</b></summary>
+<br>
 
-  <!-- ويب 3 والعملات الرقمية -->
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" width="36" height="36" /></a>
-  <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" alt="Polygon" title="Polygon" width="36" height="36" /></a>
-  <a href="https://near.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" alt="NEAR" title="NEAR" width="36" height="36" /></a>
-  <a href="https://avalanche.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" alt="Avalanche" title="Avalanche" width="36" height="36" /></a>
-  <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" alt="Terra" title="Terra" width="36" height="36" /></a>
-  <a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" alt="Flow" title="Flow" width="36" height="36" /></a>
-  <a href="https://arbitrum.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" alt="Arbitrum" title="Arbitrum" width="36" height="36" /></a>
-  <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" alt="Uniswap" title="Uniswap" width="36" height="36" /></a>
-  <a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" alt="AAVE" title="AAVE" width="36" height="36" /></a>
-  <a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" alt="SushiSwap" title="SushiSwap" width="36" height="36" /></a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a>
-  <a href="https://www.argent.xyz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" alt="Argent" title="Argent" width="36" height="36" /></a>
-  <a href="https://thegraph.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" alt="The Graph" title="The Graph" width="36" height="36" /></a>
-  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" alt="Web3.js" title="Web3.js" width="36" height="36" /></a>
-  <a href="https://ethers.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" alt="Ethers.js" title="Ethers.js" width="36" height="36" /></a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" title="Hardhat" width="36" height="36" /></a>
-  <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" alt="IPFS" title="IPFS" width="36" height="36" /></a>
-  <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" alt="Filebase" title="Filebase" width="36" height="36" /></a>
-  <a href="https://www.arweave.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored-dark.svg" alt="Arweave" title="Arweave" width="36" height="36" /></a>
-  <a href="https://www.nansen.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" alt="Nansen" title="Nansen" width="36" height="36" /></a>
-
-  <!-- الذكاء الاصطناعي والتعلم الآلي -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
-
-  <!-- تقنيات الواجهة الأمامية -->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="shadcn/ui" title="shadcn/ui" width="36" height="36" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jQuery" title="jQuery" width="36" height="36" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" alt="Babel" title="Babel" width="36" height="36" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
-  <a href="https://parceljs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/parcel-colored.svg" alt="Parcel" title="Parcel" width="36" height="36" /></a>
-</p>
-
-### إحصائيات GitHub
-
-<a href="http://www.github.com/Abokaes">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abokaes&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-### أفضل المستودعات
-
-<div width="100%" align="center">
-  <a href="https://github.com/Abokaes/Abokaes" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abokaes&repo=Abokaes&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+<img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
+</details>
 </div>
 
-<br clear="both">
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) [![learnmate-backend](https://img.shields.io/static/v1?label=&message=learnmate-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/learnmate-backend) |
+| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![rocket-server](https://img.shields.io/static/v1?label=&message=rocket-server&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/rocket-server) [![titan-shell](https://img.shields.io/static/v1?label=&message=titan-shell&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/titan-shell) [![dataload-db](https://img.shields.io/static/v1?label=&message=dataload-db&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dataload-db) |
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
+| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
+| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
+| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![tokenizer-raycast](https://img.shields.io/static/v1?label=&message=tokenizer-raycast&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tokenizer-raycast) [![nextjs-starter-template](https://img.shields.io/static/v1?label=&message=nextjs-starter-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/nextjs-starter-template) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![supabase-uptime-monitor](https://img.shields.io/static/v1?label=&message=supabase-uptime-monitor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/supabase-uptime-monitor) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
+| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) [![hackerrank](https://img.shields.io/static/v1?label=&message=hackerrank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackerrank) [![hackattic](https://img.shields.io/static/v1?label=&message=hackattic&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackattic) [![kata-log](https://img.shields.io/static/v1?label=&message=kata-log&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/kata-log) [![sadservers](https://img.shields.io/static/v1?label=&message=sadservers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/sadservers) [![code.golf](https://img.shields.io/static/v1?label=&message=code.golf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/code.golf) [![deep-ml](https://img.shields.io/static/v1?label=&message=deep-ml&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/deep-ml) |
+| [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-### ادعموني
+📝 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Supercharge Your FastAPI Development with Browser Hot Reloading Using Arel](https://dev.to/ashleymavericks/browser-hot-reloading-for-python-asgi-web-apps-using-arel-1l19)
+- [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
+<!-- BLOG-POST-LIST:END -->
 
-<ul style="list-style-type: none; margin: 0; padding: 0;">
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.buymeacoffee.com/abokaes" target="_blank" rel="noreferrer">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-    </a>
-  </li>
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://ko-fi.com/abokaes" target="_blank" rel="noreferrer">
-      <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" />
-    </a>
-  </li>
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+
+<div>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div></p>
+<img src="YOUR_IMAGE_URL.png" alt="وصف الصورة" width="300" style="border-radius: 8px; margin: 10px 0;" />
+<ul style="text-align: right; direction: rtl;">
+<li>قائمة نقطية 1</li>
+<li>قائمة نقطية 2</li>
 </ul>
+</div>
+</div><div style="padding: 3px; background: linear-gradient(45deg, red, orange, yellow, green, blue, purple); border-radius: 10px; width: fit-content; margin: auto;">
+  <div style="background: #111; color: white; padding: 20px; border-radius: 7px; text-align: center; font-family: Arial;">
+    <h3>مرحباً بكم في ملفي الشخصي</h3>
+    <p># 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
+[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-red?style=social&logo=Youtube&logoColor=red&link=https://www.youtube.com/@ashleymavericks)](https://www.youtube.com/@ashleymavericks)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/ashleymavericks/)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks)
+[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
+
+[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
+
+:wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
+        
+<img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
+    </details>
+</div>
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000
